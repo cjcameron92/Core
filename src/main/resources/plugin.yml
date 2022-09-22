@@ -1,0 +1,5 @@
+main: com.vertmix.core.plugin.CorePlugin
+version: 1.0
+name: core
+api-version: 1.18
+depend: [helper, packager, profiles]
